@@ -1,3 +1,5 @@
 # Your First (Several) Asynchronous Requests
-
-[See assignment in Alexa.](https://alexa.bitmaker.co/cohorts/67/assignments/2055/latest)
+1. HTTP request: GET
+2. 84 ms + 1ms  Finish: 110ms
+3.  Status: 200, OK
+4.  Type: Document, Initiator: Other. This was a user request, not an AJAX.
